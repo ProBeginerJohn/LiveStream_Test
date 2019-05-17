@@ -54,6 +54,7 @@
 		7FF59FBA228E94E500597200 /* LiveStreamOne */ = {
 			isa = PBXGroup;
 			children = (
+				7FF59FCD228EA5DF00597200 /* Classes */,
 				7FF59FBB228E94E500597200 /* AppDelegate.swift */,
 				7FF59FBD228E94E500597200 /* ViewController.swift */,
 				7FF59FBF228E94E500597200 /* Main.storyboard */,
@@ -62,6 +63,61 @@
 				7FF59FC7228E94E600597200 /* Info.plist */,
 			);
 			path = LiveStreamOne;
+			sourceTree = "<group>";
+		};
+		7FF59FCD228EA5DF00597200 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				7FF59FD3228EA5DF00597200 /* Main */,
+				7FF59FCE228EA5DF00597200 /* Home */,
+				7FF59FD2228EA5DF00597200 /* Live */,
+				7FF59FD0228EA5DF00597200 /* Follow */,
+				7FF59FD1228EA5DF00597200 /* Profile */,
+				7FF59FCF228EA5DF00597200 /* Tools */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		7FF59FCE228EA5DF00597200 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		7FF59FCF228EA5DF00597200 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		7FF59FD0228EA5DF00597200 /* Follow */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Follow;
+			sourceTree = "<group>";
+		};
+		7FF59FD1228EA5DF00597200 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		7FF59FD2228EA5DF00597200 /* Live */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Live;
+			sourceTree = "<group>";
+		};
+		7FF59FD3228EA5DF00597200 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
